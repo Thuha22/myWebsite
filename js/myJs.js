@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Hế luu Bx!",
-  text2: "Ox có điều này muốn hỏi Bx nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Bx yêu Ox có phải không nào ._.",
-  text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
-  text5: "Khom iu Ox nha :))",
-  text6: "Iu Ox nhèo nhèo :))",
-  text7: "Sao Bx iu Ox vại. :vvvv",
-  text8: "Gửi cho Ox di <3",
+  text1: "Hế luu tìnhhh yêuuuu!",
+  text2: "Em hỏi ngừi iu điều này nhaaaa.",
+  text3: "Anh có iuu em hôngg???",
+  // text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
+  text5: "Không nhaa :))",
+  text6: "Có nèee",
+  text7: "Thế sau này cho em giũ hết tiền nha :vvvv",
+  text8: "Gửi em iu <3",
   text9: "Vì Ox đẹp try vlllll",
-  text10: "Iu Vk quá luôn ó",
-  text11: "Lấy Ox lun nha Bx :DDDDDDDDDDDDD",
-  text12: "Okii lunn <3",
+  text10: "Lớp diuuuu <3",
+  // text11: "Lấy Ox lun nha Bx :DDDDDDDDDDDDD",
+  text12: "Iu emmm",
 };
 
 $(document).ready(function () {
@@ -112,7 +112,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Câu trả lời thể hiện tình iu....'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
