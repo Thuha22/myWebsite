@@ -5,7 +5,7 @@ const textConfig = {
   // text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
   text5: "Không nhaa :))",
   text6: "Có nèee",
-  text7: "Thế sau này cho em giũ hết tiền nha :vvvv",
+  text7: "Thế sau này cho em giữ hết tiền nha :vvvv",
   text8: "Gửi em iu <3",
   text9: "Vì Ox đẹp try vlllll",
   text10: "Lớp diuuuu <3",
