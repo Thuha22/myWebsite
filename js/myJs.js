@@ -107,6 +107,10 @@ $(document).ready(function () {
   $("#yes").click(function () {
     var audio = new Audio("sound/tick.mp3");
     audio.play();
+    $("#text3").hide();
+    $("#yes").hide();
+    $("#no").hide();
+
     Swal.fire({
       title: textConfig.text7,
       html: true,
@@ -116,7 +120,7 @@ $(document).ready(function () {
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
-                    url("img/giphy2.gif")
+                    url("img/love.gif")
                     left top
                     no-repeat
                   `,
